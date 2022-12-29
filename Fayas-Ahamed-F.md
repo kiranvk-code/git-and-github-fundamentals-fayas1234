@@ -5,6 +5,8 @@ This course helped a lot in understanding github and creating readme files.
 
 **Thank you for providing this wonderful course :+1:**
 
+
+
 ## Tasks performed:
 - [x] Created Profile readme
 - [x] Experimented with repositories
@@ -13,7 +15,8 @@ This course helped a lot in understanding github and creating readme files.
 
 
 
-### Link to my profile
+
+## Link to my profile:
 
 [fayas1234](http://github.com/fayas1234)
 
